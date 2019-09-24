@@ -1,0 +1,15 @@
+{
+    "firstName": "Lara",
+    "lastName": "Howerton",
+    "nickName": "",
+    "privateName": false,
+    "picture": "images/larahowerton.jpg",
+    "privatePicture": false,
+    "email": "lara.howerton@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "larahowerton",
+    "privateGithub": true,
+    "superpower" : "Flying. (For real. I'm an aerialist.)",
+    "academicinterests": "Medieval studies, mediterranean history, DH"
+  }
+  
